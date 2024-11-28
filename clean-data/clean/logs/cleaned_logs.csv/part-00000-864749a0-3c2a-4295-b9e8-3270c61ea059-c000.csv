@@ -1,0 +1,1388 @@
+timestamp,class,log_level,message,id
+2012-02-03 18:35:34,everything,INFO,everything normal,577725851
+2012-02-03 18:35:34,system,FATAL,"",1991281254
+2012-02-03 18:35:34,detail,DEBUG,detail,1304807656
+2012-02-03 18:35:34,missing,WARN,"",423340895
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,2082654978
+2012-02-03 18:35:34,incorrect,ERROR,"",""
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,438634209
+2012-02-03 18:35:34,detail,DEBUG,detail,2074121310
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1505582508
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1903854437
+2012-02-03 18:35:34,detail,DEBUG,detail,915853141
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,303132401
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,151914369
+2012-02-03 18:35:34,detail,DEBUG,detail,146527742
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1147275656
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1639322587
+2012-02-03 18:35:34,detail,DEBUG,detail,1947448465
+2012-02-03 18:35:34,everything,INFO,everything normal,146253849
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1608957378
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1183808280
+2012-02-03 18:35:34,detail,DEBUG,detail,1395585766
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,155983096
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1632884948
+2012-02-03 18:35:34,detail,DEBUG,detail,110682237
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1739786736
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,792309118
+2012-02-03 18:35:34,detail,DEBUG,detail,1142802377
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1559025043
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,40752315
+2012-02-03 18:35:34,detail,DEBUG,detail,499737644
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,400342153
+2012-02-03 18:35:34,everything,INFO,everything normal,1868490543
+2012-02-03 18:35:34,detail,DEBUG,detail,2059812448
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,766423792
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,671674205
+2012-02-03 18:35:34,detail,DEBUG,detail,2146263624
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,619472373
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1391429871
+2012-02-03 18:35:34,detail,DEBUG,detail,1522968690
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,173216708
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1089864222
+2012-02-03 18:35:34,detail,DEBUG,detail,778459926
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,775158107
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1143165501
+2012-02-03 18:35:34,detail,DEBUG,detail,1533873133
+2012-02-03 18:35:34,everything,INFO,everything normal,1916666627
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1530726118
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,38243257
+2012-02-03 18:35:34,detail,DEBUG,detail,1268939592
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,309815198
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,468333359
+2012-02-03 18:35:34,detail,DEBUG,detail,1825950524
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1437966113
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,224128931
+2012-02-03 18:35:34,detail,DEBUG,detail,1536041481
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,565782217
+2012-02-03 18:35:34,detail,DEBUG,detail,1173921159
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1270949141
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,2013059990
+2012-02-03 18:35:34,everything,INFO,everything normal,739587626
+2012-02-03 18:35:34,detail,DEBUG,detail,552130153
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1100232257
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1395624416
+2012-02-03 18:35:34,detail,DEBUG,detail,342163745
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,617561588
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1310951787
+2012-02-03 18:35:34,detail,DEBUG,detail,2002740153
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1557575416
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1983250681
+2012-02-03 18:35:34,detail,DEBUG,detail,1173250086
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1798066635
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,931939552
+2012-02-03 18:35:34,detail,DEBUG,detail,134320441
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,422428024
+2012-02-03 18:35:34,everything,INFO,everything normal,2050832396
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,435411914
+2012-02-03 18:35:34,detail,DEBUG,detail,1375153288
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1285719039
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,145402884
+2012-02-03 18:35:34,detail,DEBUG,detail,1564658346
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1932959719
+2012-02-03 18:35:34,detail,DEBUG,detail,847623795
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,559617879
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,765627069
+2012-02-03 18:35:34,detail,DEBUG,detail,1224092320
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1258772657
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1113842096
+2012-02-03 18:35:34,everything,INFO,everything normal,781623964
+2012-02-03 18:35:34,detail,DEBUG,detail,1426603165
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1912528762
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1616164055
+2012-02-03 18:35:34,detail,DEBUG,detail,362382078
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,457029489
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,218393462
+2012-02-03 18:35:34,detail,DEBUG,detail,645848704
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,371434395
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,686364317
+2012-02-03 18:35:34,detail,DEBUG,detail,1030368497
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,411397730
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,591446031
+2012-02-03 18:35:34,detail,DEBUG,detail,1794773877
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1089970947
+2012-02-03 18:35:34,everything,INFO,everything normal,547313934
+2012-02-03 18:35:34,detail,DEBUG,detail,16598231
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,360863885
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,708369257
+2012-02-03 18:35:34,detail,DEBUG,detail,61674798
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,772551455
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,210906854
+2012-02-03 18:35:34,detail,DEBUG,detail,52023398
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1486660878
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1158450661
+2012-02-03 18:35:34,detail,DEBUG,detail,1190977932
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1191757349
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1556751471
+2012-02-03 18:35:34,everything,INFO,everything normal,2044892337
+2012-02-03 18:35:34,detail,DEBUG,detail,2130293335
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,2063826525
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,988304329
+2012-02-03 18:35:34,detail,DEBUG,detail,372587635
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,757509658
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1189164169
+2012-02-03 18:35:34,detail,DEBUG,detail,1620699449
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,1406148614
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,907685529
+2012-02-03 18:35:34,detail,DEBUG,detail,1740490143
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,701889573
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,7396032
+2012-02-03 18:35:34,detail,DEBUG,detail,791840660
+2012-02-03 18:35:34,everything,INFO,everything normal,1857885262
+2012-02-03 18:35:34,verbose,TRACE,verbose detail,764182614
+2012-02-03 18:35:34,detail,DEBUG,detail,1768055227
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,542803217
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1314166755
+2012-02-03 18:40:36,detail,DEBUG,detail,1098585196
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,991407675
+2012-02-03 18:40:36,missing,WARN,"",715082426
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,480000858
+2012-02-03 18:40:36,detail,DEBUG,detail,258924934
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,571440523
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,293194156
+2012-02-03 18:40:36,detail,DEBUG,detail,254080448
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,542735694
+2012-02-03 18:40:36,everything,INFO,everything normal,2028656087
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,513536436
+2012-02-03 18:40:36,detail,DEBUG,detail,1375144057
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1751687909
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,229390750
+2012-02-03 18:40:36,detail,DEBUG,detail,1263435152
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,971546034
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1489081348
+2012-02-03 18:40:36,detail,DEBUG,detail,1974977594
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,894915373
+2012-02-03 18:40:36,detail,DEBUG,detail,675052260
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,496367434
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1729173297
+2012-02-03 18:40:36,detail,DEBUG,detail,599346363
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1289642214
+2012-02-03 18:40:36,everything,INFO,everything normal,852931937
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1206510216
+2012-02-03 18:40:36,detail,DEBUG,detail,1324514084
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,2087067981
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,191203222
+2012-02-03 18:40:36,detail,DEBUG,detail,2135742055
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,326885491
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1252455486
+2012-02-03 18:40:36,detail,DEBUG,detail,2140113578
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,585470183
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1746719057
+2012-02-03 18:40:36,detail,DEBUG,detail,1261559809
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,42549042
+2012-02-03 18:40:36,everything,INFO,everything normal,49647072
+2012-02-03 18:40:36,detail,DEBUG,detail,1899039576
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,540858853
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,560777404
+2012-02-03 18:40:36,detail,DEBUG,detail,285048743
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,256774312
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,353289318
+2012-02-03 18:40:36,detail,DEBUG,detail,1070329362
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,427454552
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1720312947
+2012-02-03 18:40:36,detail,DEBUG,detail,1990881037
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,471359701
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,57035075
+2012-02-03 18:40:36,detail,DEBUG,detail,771208754
+2012-02-03 18:40:36,everything,INFO,everything normal,1243429480
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1452635388
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,540871132
+2012-02-03 18:40:36,detail,DEBUG,detail,1293987780
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,2018625629
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1776925194
+2012-02-03 18:40:36,detail,DEBUG,detail,243834522
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,929833675
+2012-02-03 18:40:36,detail,DEBUG,detail,2017152221
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,553313635
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,313704535
+2012-02-03 18:40:36,detail,DEBUG,detail,106307824
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,490132418
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,980014356
+2012-02-03 18:40:36,everything,INFO,everything normal,1930699662
+2012-02-03 18:40:36,detail,DEBUG,detail,1457901133
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,85606029
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,271114752
+2012-02-03 18:40:36,detail,DEBUG,detail,984811715
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,240224698
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,2020997102
+2012-02-03 18:40:36,detail,DEBUG,detail,1846053809
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,715228923
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,384193257
+2012-02-03 18:40:36,detail,DEBUG,detail,189044119
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1223748394
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,238186480
+2012-02-03 18:40:36,detail,DEBUG,detail,107987823
+2012-02-03 18:40:36,everything,INFO,everything normal,1653545125
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1825513198
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1576776374
+2012-02-03 18:40:36,detail,DEBUG,detail,428451282
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1564569859
+2012-02-03 18:40:36,detail,DEBUG,detail,773913359
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1952441635
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,462055015
+2012-02-03 18:40:36,detail,DEBUG,detail,1079865003
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1912403519
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,345240285
+2012-02-03 18:40:36,detail,DEBUG,detail,1539479457
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1812964693
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,175627720
+2012-02-03 18:40:36,detail,DEBUG,detail,700750721
+2012-02-03 18:40:36,everything,INFO,everything normal,944244387
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,2045399343
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1941397886
+2012-02-03 18:40:36,detail,DEBUG,detail,1238230556
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,59985994
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,292791224
+2012-02-03 18:40:36,detail,DEBUG,detail,1399555576
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1279155628
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,331381484
+2012-02-03 18:40:36,detail,DEBUG,detail,1103582564
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1514586728
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,836330812
+2012-02-03 18:40:36,detail,DEBUG,detail,1137584902
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,568075244
+2012-02-03 18:40:36,everything,INFO,everything normal,1080791231
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1757707349
+2012-02-03 18:40:36,detail,DEBUG,detail,1117387214
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,884368
+2012-02-03 18:40:36,detail,DEBUG,detail,1160300063
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1074277269
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1102341478
+2012-02-03 18:40:36,detail,DEBUG,detail,1315921163
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1585561727
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,452211708
+2012-02-03 18:40:36,detail,DEBUG,detail,730127148
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1150515287
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1519538521
+2012-02-03 18:40:36,detail,DEBUG,detail,84453466
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,623474608
+2012-02-03 18:40:36,everything,INFO,everything normal,1845584660
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1855034181
+2012-02-03 18:40:36,detail,DEBUG,detail,904484462
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1949813261
+2012-02-03 18:40:36,detail,DEBUG,detail,1866532839
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1491686292
+2012-02-03 18:40:36,verbose,TRACE,verbose detail,1260796170
+2012-02-03 18:55:54,detail,DEBUG,detail,8597829
+2012-02-03 18:55:54,incorrect,ERROR,"",""
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,582636405
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,921290882
+2012-02-03 18:55:54,missing,WARN,"",2060960425
+2012-02-03 18:55:54,detail,DEBUG,detail,448105135
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,184424625
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,678640973
+2012-02-03 18:55:54,detail,DEBUG,detail,1626053843
+2012-02-03 18:55:54,everything,INFO,everything normal,560707667
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,430808281
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,2132853461
+2012-02-03 18:55:54,detail,DEBUG,detail,906260911
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,826917306
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1287504819
+2012-02-03 18:55:54,detail,DEBUG,detail,954808823
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1363319084
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,194837567
+2012-02-03 18:55:54,detail,DEBUG,detail,1500280612
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,2054521808
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1207456941
+2012-02-03 18:55:54,detail,DEBUG,detail,1428677920
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,592938104
+2012-02-03 18:55:54,everything,INFO,everything normal,589810760
+2012-02-03 18:55:54,detail,DEBUG,detail,1936185534
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,587546988
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,37407650
+2012-02-03 18:55:54,detail,DEBUG,detail,1122506691
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,641891216
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1340558229
+2012-02-03 18:55:54,detail,DEBUG,detail,234717526
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,193345391
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,62689928
+2012-02-03 18:55:54,detail,DEBUG,detail,1621342183
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,6496589
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1871683315
+2012-02-03 18:55:54,detail,DEBUG,detail,561758387
+2012-02-03 18:55:54,everything,INFO,everything normal,1556558203
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1608356821
+2012-02-03 18:55:54,detail,DEBUG,detail,981351386
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1697407208
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,793381015
+2012-02-03 18:55:54,detail,DEBUG,detail,2015119687
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1784078443
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,754747732
+2012-02-03 18:55:54,detail,DEBUG,detail,1234656216
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1886943245
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1649348816
+2012-02-03 18:55:54,detail,DEBUG,detail,105977351
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1938478126
+2012-02-03 18:55:54,everything,INFO,everything normal,101696670
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1548135120
+2012-02-03 18:55:54,detail,DEBUG,detail,967402958
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,88491521
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1075230423
+2012-02-03 18:55:54,detail,DEBUG,detail,1200123683
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1007362439
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1925336722
+2012-02-03 18:55:54,detail,DEBUG,detail,926539112
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1630710503
+2012-02-03 18:55:54,detail,DEBUG,detail,1940620731
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1891314860
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,2114675826
+2012-02-03 18:55:54,detail,DEBUG,detail,2028374150
+2012-02-03 18:55:54,everything,INFO,everything normal,1810090956
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,183339513
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1500617107
+2012-02-03 18:55:54,detail,DEBUG,detail,1062285837
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1201156335
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1371828413
+2012-02-03 18:55:54,detail,DEBUG,detail,1874414321
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,859283187
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,2040938811
+2012-02-03 18:55:54,detail,DEBUG,detail,946117720
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1516836646
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1128787132
+2012-02-03 18:55:54,detail,DEBUG,detail,1109460584
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1170722669
+2012-02-03 18:55:54,everything,INFO,everything normal,23642439
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1584428283
+2012-02-03 18:55:54,detail,DEBUG,detail,989817872
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,207534758
+2012-02-03 18:55:54,detail,DEBUG,detail,17140434
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,787974413
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1825149485
+2012-02-03 18:55:54,detail,DEBUG,detail,1028498314
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,890665632
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,59240454
+2012-02-03 18:55:54,detail,DEBUG,detail,1029178762
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1135460272
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,275589442
+2012-02-03 18:55:54,detail,DEBUG,detail,1594903856
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1678538890
+2012-02-03 18:55:54,everything,INFO,everything normal,19138247
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1024643084
+2012-02-03 18:55:54,detail,DEBUG,detail,1039818662
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1996134194
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1947166588
+2012-02-03 18:55:54,detail,DEBUG,detail,218851536
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1765383670
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1666944491
+2012-02-03 18:55:54,detail,DEBUG,detail,799914029
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1818100329
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1207171214
+2012-02-03 18:55:54,detail,DEBUG,detail,1948330492
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,205293058
+2012-02-03 18:55:54,everything,INFO,everything normal,1446522366
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,2052486472
+2012-02-03 18:55:54,detail,DEBUG,detail,1783753678
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,2009420525
+2012-02-03 18:55:54,detail,DEBUG,detail,799201022
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,225419438
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,901538834
+2012-02-03 18:55:54,detail,DEBUG,detail,1204053442
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1852844029
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1439643475
+2012-02-03 18:55:54,detail,DEBUG,detail,1135523440
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,663968985
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,181134860
+2012-02-03 18:55:54,detail,DEBUG,detail,991938571
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,12629891
+2012-02-03 18:55:54,everything,INFO,everything normal,1631887504
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1858052823
+2012-02-03 18:55:54,detail,DEBUG,detail,1335222216
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1996782251
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,186529499
+2012-02-03 18:55:54,detail,DEBUG,detail,570051370
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1211360834
+2012-02-03 18:55:54,detail,DEBUG,detail,65309910
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,1481734365
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,725162102
+2012-02-03 18:55:54,detail,DEBUG,detail,497916631
+2012-02-03 18:55:54,verbose,TRACE,verbose detail,147102136
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,917636316
+2012-02-03 19:11:02,everything,INFO,everything normal,1028391171
+2012-02-03 19:11:02,detail,DEBUG,detail,1316808512
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1490179386
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,656914189
+"","","","",""
+java.lang.Exception: 2012-02-03,problem,WARN,"",153454612
+"","","","",""
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,808347545
+2012-02-03 19:11:02,detail,DEBUG,detail,1743263073
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,456059562
+2012-02-03 19:11:02,detail,DEBUG,detail,1359045794
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1098309767
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,2056879313
+2012-02-03 19:11:02,detail,DEBUG,detail,668008553
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1840700390
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,290519717
+2012-02-03 19:11:02,everything,INFO,everything normal,1290633616
+2012-02-03 19:11:02,detail,DEBUG,detail,874259321
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,155214011
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1475129886
+2012-02-03 19:11:02,detail,DEBUG,detail,713901396
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,833673153
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,274520535
+2012-02-03 19:11:02,detail,DEBUG,detail,1126198166
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,2000383427
+2012-02-03 19:11:02,detail,DEBUG,detail,2045661306
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1373951232
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,560979791
+2012-02-03 19:11:02,detail,DEBUG,detail,2125248068
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1542138694
+2012-02-03 19:11:02,everything,INFO,everything normal,1694688693
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1853062797
+2012-02-03 19:11:02,detail,DEBUG,detail,780761132
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1881858075
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1852213084
+2012-02-03 19:11:02,detail,DEBUG,detail,1106360257
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1924667041
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,971856101
+2012-02-03 19:11:02,detail,DEBUG,detail,1008718931
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,994147282
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,2094273632
+2012-02-03 19:11:02,detail,DEBUG,detail,306599924
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,618171600
+2012-02-03 19:11:02,everything,INFO,everything normal,631426972
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,47333194
+2012-02-03 19:11:02,detail,DEBUG,detail,1654037273
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,537356654
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,801485098
+2012-02-03 19:11:02,detail,DEBUG,detail,203628466
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,354640838
+2012-02-03 19:11:02,detail,DEBUG,detail,1994002455
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,966923279
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,60648264
+2012-02-03 19:11:02,detail,DEBUG,detail,1774910674
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,674835567
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1146774776
+2012-02-03 19:11:02,everything,INFO,everything normal,937493947
+2012-02-03 19:11:02,detail,DEBUG,detail,1222007788
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,317206677
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,494613561
+2012-02-03 19:11:02,detail,DEBUG,detail,2129281342
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,498548184
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1687952236
+2012-02-03 19:11:02,detail,DEBUG,detail,1804324351
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1595271189
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,698394095
+2012-02-03 19:11:02,detail,DEBUG,detail,154686229
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1117305660
+2012-02-03 19:11:02,detail,DEBUG,detail,2146816610
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1433606581
+2012-02-03 19:11:02,everything,INFO,everything normal,1851073336
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1346626727
+2012-02-03 19:11:02,detail,DEBUG,detail,2060185735
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,734993463
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1709830246
+2012-02-03 19:11:02,detail,DEBUG,detail,1370344778
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1320684888
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1850895817
+2012-02-03 19:11:02,detail,DEBUG,detail,1478573600
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,594588915
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1181131448
+2012-02-03 19:11:02,detail,DEBUG,detail,1041118057
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,836293214
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,529739898
+2012-02-03 19:11:02,detail,DEBUG,detail,1743124492
+2012-02-03 19:11:02,everything,INFO,everything normal,2093288143
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1573132589
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,177465153
+2012-02-03 19:11:02,detail,DEBUG,detail,1913179397
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1012482511
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,525357513
+2012-02-03 19:11:02,detail,DEBUG,detail,1127136385
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,799845610
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,501075278
+2012-02-03 19:11:02,detail,DEBUG,detail,2050584869
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1875194813
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1481505321
+2012-02-03 19:11:02,detail,DEBUG,detail,1458595718
+2012-02-03 19:11:02,everything,INFO,everything normal,1655898768
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1715686983
+2012-02-03 19:11:02,detail,DEBUG,detail,1618208003
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1157996524
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1651758454
+2012-02-03 19:11:02,detail,DEBUG,detail,1537021927
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1688009737
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1304686860
+2012-02-03 19:11:02,detail,DEBUG,detail,139566666
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1845804981
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1525657552
+2012-02-03 19:11:02,detail,DEBUG,detail,2126029367
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,891560280
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,2080338799
+2012-02-03 19:11:02,detail,DEBUG,detail,443571573
+2012-02-03 19:11:02,everything,INFO,everything normal,1861324968
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,49899205
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,107034709
+2012-02-03 19:11:02,detail,DEBUG,detail,1501753473
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,928469413
+2012-02-03 19:11:02,detail,DEBUG,detail,1701806261
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,2089127814
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,2101105551
+2012-02-03 19:11:02,detail,DEBUG,detail,417289855
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,708198991
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1991304703
+2012-02-03 19:11:02,detail,DEBUG,detail,1789657252
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1441119354
+2012-02-03 19:11:02,everything,INFO,everything normal,1541013080
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,256806091
+2012-02-03 19:11:02,detail,DEBUG,detail,939679345
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,448465220
+2012-02-03 19:11:02,verbose,TRACE,verbose detail,1363441930
+2012-02-03 19:25:27,incorrect,ERROR,"",""
+2012-02-03 19:25:27,detail,DEBUG,detail,1318719373
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,633951022
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1236853299
+2012-02-03 19:25:27,detail,DEBUG,detail,767926526
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,757931386
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1969652299
+"","","","",""
+java.lang.Exception: 2012-02-03,problem,WARN,"",1561591085
+"","","","",""
+2012-02-03 19:25:27,detail,DEBUG,detail,1370714809
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,146764301
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,396224371
+2012-02-03 19:25:27,detail,DEBUG,detail,420668719
+2012-02-03 19:25:27,everything,INFO,everything normal,2057399975
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1315447868
+2012-02-03 19:25:27,detail,DEBUG,detail,1258992601
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,726742378
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1491758424
+2012-02-03 19:25:27,detail,DEBUG,detail,296793580
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,233281184
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1057827940
+2012-02-03 19:25:27,detail,DEBUG,detail,1861802481
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,2121110952
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,873715655
+2012-02-03 19:25:27,detail,DEBUG,detail,1856802606
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1285997868
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1480605430
+2012-02-03 19:25:27,everything,INFO,everything normal,1511211103
+2012-02-03 19:25:27,detail,DEBUG,detail,1892430845
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1628779048
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,389169432
+2012-02-03 19:25:27,detail,DEBUG,detail,1808223779
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1557499889
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,580837801
+2012-02-03 19:25:27,detail,DEBUG,detail,1322795299
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1586835058
+2012-02-03 19:25:27,detail,DEBUG,detail,1491559991
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1112582942
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,785934742
+2012-02-03 19:25:27,detail,DEBUG,detail,1091856699
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,32189722
+2012-02-03 19:25:27,everything,INFO,everything normal,2060457604
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1568184581
+2012-02-03 19:25:27,detail,DEBUG,detail,997939180
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,591603345
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1389529592
+2012-02-03 19:25:27,detail,DEBUG,detail,1600893525
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,193243589
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1416071188
+2012-02-03 19:25:27,detail,DEBUG,detail,892591815
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,693594145
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,933014831
+2012-02-03 19:25:27,detail,DEBUG,detail,1932025402
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,768784379
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,139052235
+2012-02-03 19:25:27,everything,INFO,everything normal,216737165
+2012-02-03 19:25:27,detail,DEBUG,detail,1189262592
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1871759739
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,480157673
+2012-02-03 19:25:27,detail,DEBUG,detail,1516116879
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,2116562018
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,581660342
+2012-02-03 19:25:27,detail,DEBUG,detail,1867574596
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1545485722
+2012-02-03 19:25:27,detail,DEBUG,detail,684790642
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,901472278
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,824445383
+2012-02-03 19:25:27,detail,DEBUG,detail,939843491
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1931493049
+2012-02-03 19:25:27,everything,INFO,everything normal,863284789
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,919664440
+2012-02-03 19:25:27,detail,DEBUG,detail,337795906
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,469449145
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,2078283473
+2012-02-03 19:25:27,detail,DEBUG,detail,1382959674
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1806939646
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,316737180
+2012-02-03 19:25:27,detail,DEBUG,detail,1027963009
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,2085324299
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,2002007384
+2012-02-03 19:25:27,detail,DEBUG,detail,216151861
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,783326687
+2012-02-03 19:25:27,everything,INFO,everything normal,2081991834
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1905148152
+2012-02-03 19:25:27,detail,DEBUG,detail,1775454969
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1379784471
+2012-02-03 19:25:27,detail,DEBUG,detail,2039454451
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1898509826
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,559957338
+2012-02-03 19:25:27,detail,DEBUG,detail,1189701944
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,292907341
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,962751093
+2012-02-03 19:25:27,detail,DEBUG,detail,62786137
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,714698622
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1883143365
+2012-02-03 19:25:27,detail,DEBUG,detail,1773094714
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,597973619
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,853356662
+2012-02-03 19:25:27,everything,INFO,everything normal,513911637
+2012-02-03 19:25:27,detail,DEBUG,detail,2055394840
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1336393094
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1620724816
+2012-02-03 19:25:27,detail,DEBUG,detail,153269992
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,254752
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1824086724
+2012-02-03 19:25:27,detail,DEBUG,detail,201262126
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,2130931262
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,194213213
+2012-02-03 19:25:27,detail,DEBUG,detail,1395540265
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1489722974
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,888510810
+2012-02-03 19:25:27,detail,DEBUG,detail,610682810
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1381387982
+2012-02-03 19:25:27,everything,INFO,everything normal,1737673372
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,675605020
+2012-02-03 19:25:27,detail,DEBUG,detail,382076657
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1064951289
+2012-02-03 19:25:27,detail,DEBUG,detail,1434432309
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1246828983
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,769143055
+2012-02-03 19:25:27,detail,DEBUG,detail,1537774604
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1383409392
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,257533577
+2012-02-03 19:25:27,detail,DEBUG,detail,998852591
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1109731338
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1067071336
+2012-02-03 19:25:27,detail,DEBUG,detail,1289962631
+2012-02-03 19:25:27,everything,INFO,everything normal,1340712557
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,824653133
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,74220424
+2012-02-03 19:25:27,detail,DEBUG,detail,166257978
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,515693269
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1814249746
+2012-02-03 19:25:27,detail,DEBUG,detail,197559030
+2012-02-03 19:25:27,verbose,TRACE,verbose detail,1419789614
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1104742032
+2012-02-03 19:40:18,detail,DEBUG,detail,322440789
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1012412817
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,96554682
+2012-02-03 19:40:18,detail,DEBUG,detail,462310877
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,22383702
+2012-02-03 19:40:18,everything,INFO,everything normal,1240952849
+"","","","",""
+java.lang.Exception: 2012-02-03,problem,WARN,"",284365737
+"","","","",""
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1143887438
+2012-02-03 19:40:18,detail,DEBUG,detail,885814855
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1720029611
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1361640909
+2012-02-03 19:40:18,detail,DEBUG,detail,1840177026
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,903116904
+2012-02-03 19:40:18,detail,DEBUG,detail,248212052
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,681516176
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1352124979
+2012-02-03 19:40:18,detail,DEBUG,detail,1505375347
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,32828249
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1848667093
+2012-02-03 19:40:18,detail,DEBUG,detail,877385968
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1890627551
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1177435061
+2012-02-03 19:40:18,everything,INFO,everything normal,1114664594
+2012-02-03 19:40:18,detail,DEBUG,detail,1341576574
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1713742126
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,190874453
+2012-02-03 19:40:18,detail,DEBUG,detail,99899434
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1085709464
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1592927631
+2012-02-03 19:40:18,detail,DEBUG,detail,1533695172
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,402208933
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,360379665
+2012-02-03 19:40:18,detail,DEBUG,detail,1813077601
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1634406344
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,685581004
+2012-02-03 19:40:18,detail,DEBUG,detail,1074098298
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,79159350
+2012-02-03 19:40:18,everything,INFO,everything normal,1890491601
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1184877692
+2012-02-03 19:40:18,detail,DEBUG,detail,1929828151
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,509505362
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,2111039415
+2012-02-03 19:40:18,detail,DEBUG,detail,1760740336
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,948232438
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1132383640
+2012-02-03 19:40:18,detail,DEBUG,detail,410953008
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,2086519044
+2012-02-03 19:40:18,detail,DEBUG,detail,1458183895
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,55483519
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1539907012
+2012-02-03 19:40:18,detail,DEBUG,detail,1653473564
+2012-02-03 19:40:18,everything,INFO,everything normal,387124491
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1411028809
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1677387298
+2012-02-03 19:40:18,detail,DEBUG,detail,1467122918
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1753072066
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1516785809
+2012-02-03 19:40:18,detail,DEBUG,detail,1002730804
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,853700228
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1846423337
+2012-02-03 19:40:18,detail,DEBUG,detail,850445080
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,535297680
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1497587976
+2012-02-03 19:40:18,detail,DEBUG,detail,1655452089
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,896080952
+2012-02-03 19:40:18,everything,INFO,everything normal,1653448430
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,838380026
+2012-02-03 19:40:18,detail,DEBUG,detail,1518064320
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,2028358395
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1617501115
+2012-02-03 19:40:18,detail,DEBUG,detail,1402803445
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,402483018
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,2137619565
+2012-02-03 19:40:18,detail,DEBUG,detail,988348086
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1982612081
+2012-02-03 19:40:18,detail,DEBUG,detail,459901826
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1515641068
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1264146202
+2012-02-03 19:40:18,detail,DEBUG,detail,2055608370
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,962837695
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,188776706
+2012-02-03 19:40:18,everything,INFO,everything normal,1531931323
+2012-02-03 19:40:18,detail,DEBUG,detail,88676137
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1039272967
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1490317022
+2012-02-03 19:40:18,detail,DEBUG,detail,1157718573
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1769234966
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,485884798
+2012-02-03 19:40:18,detail,DEBUG,detail,1624745658
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1275343433
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1007277676
+2012-02-03 19:40:18,detail,DEBUG,detail,1906750189
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,2056307109
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1222186939
+2012-02-03 19:40:18,detail,DEBUG,detail,1674549300
+2012-02-03 19:40:18,everything,INFO,everything normal,189607560
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1972631752
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,861591035
+2012-02-03 19:40:18,detail,DEBUG,detail,1151492456
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1236134421
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1959472517
+2012-02-03 19:40:18,detail,DEBUG,detail,190693760
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1226496063
+2012-02-03 19:40:18,detail,DEBUG,detail,1620657607
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1794139348
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1733307425
+2012-02-03 19:40:18,detail,DEBUG,detail,1130763539
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1971170731
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,525887363
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1763419218
+2012-02-03 19:40:18,detail,DEBUG,detail,2119664117
+2012-02-03 19:40:18,everything,INFO,everything normal,298624651
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1444912311
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,445032149
+2012-02-03 19:40:18,detail,DEBUG,detail,1089192033
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,528436764
+2012-02-03 19:40:18,detail,DEBUG,detail,31751244
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1804302568
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,81674105
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1814089648
+2012-02-03 19:40:18,detail,DEBUG,detail,1333767079
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1106258836
+2012-02-03 19:40:18,detail,DEBUG,detail,828502745
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,768825820
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1892919568
+2012-02-03 19:40:18,everything,INFO,everything normal,1672317595
+2012-02-03 19:40:18,detail,DEBUG,detail,1082307494
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,674407774
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,834073097
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1021735061
+2012-02-03 19:40:18,detail,DEBUG,detail,1929963440
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1757522932
+2012-02-03 19:40:18,detail,DEBUG,detail,902357136
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,1407415757
+2012-02-03 19:40:18,verbose,TRACE,verbose detail,809518849
+"","","","",""
+java.lang.Exception: 2012-02-03,incorrect,ERROR,incorrect format,671681594
+"","","","",""
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1163649393
+2012-02-03 19:45:42,detail,DEBUG,detail,1916094275
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1422292027
+2012-02-03 19:45:42,detail,DEBUG,detail,1287086119
+2012-02-03 19:45:42,everything,INFO,everything normal,371591851
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1631392221
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2062200882
+2012-02-03 19:45:42,detail,DEBUG,detail,274122451
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2099378088
+"","","","",""
+java.lang.Exception: 2012-02-03,problem,WARN,"",331889446
+"","","","",""
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,829936736
+2012-02-03 19:45:42,detail,DEBUG,detail,1927676975
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1426042291
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1206994492
+2012-02-03 19:45:42,detail,DEBUG,detail,927695250
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,710643518
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1739691786
+2012-02-03 19:45:42,detail,DEBUG,detail,854046440
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1386154057
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1001627234
+2012-02-03 19:45:42,everything,INFO,everything normal,484401073
+2012-02-03 19:45:42,detail,DEBUG,detail,842852828
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,325161087
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,996361926
+2012-02-03 19:45:42,detail,DEBUG,detail,211768278
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1953350057
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,183830732
+2012-02-03 19:45:42,detail,DEBUG,detail,692679215
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,636747311
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1060550404
+2012-02-03 19:45:42,detail,DEBUG,detail,2143118888
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1101004713
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1978869492
+2012-02-03 19:45:42,detail,DEBUG,detail,865261426
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,388690048
+2012-02-03 19:45:42,everything,INFO,everything normal,1439767660
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,201178355
+2012-02-03 19:45:42,detail,DEBUG,detail,1653398998
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2023526415
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,739562457
+2012-02-03 19:45:42,detail,DEBUG,detail,213675234
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1944129043
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,531204608
+2012-02-03 19:45:42,detail,DEBUG,detail,1131715326
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,585289563
+2012-02-03 19:45:42,detail,DEBUG,detail,584116778
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1930061296
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,633739438
+2012-02-03 19:45:42,detail,DEBUG,detail,894584933
+2012-02-03 19:45:42,everything,INFO,everything normal,1030114956
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,254751569
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,609436116
+2012-02-03 19:45:42,detail,DEBUG,detail,390479814
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,667019578
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1003731985
+2012-02-03 19:45:42,detail,DEBUG,detail,1642196938
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,685086637
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,820722912
+2012-02-03 19:45:42,detail,DEBUG,detail,1528570086
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2026757024
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1285830123
+2012-02-03 19:45:42,detail,DEBUG,detail,48416607
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1878424895
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2116026290
+2012-02-03 19:45:42,everything,INFO,everything normal,109884974
+2012-02-03 19:45:42,detail,DEBUG,detail,1184911123
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1623387033
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1941346136
+2012-02-03 19:45:42,detail,DEBUG,detail,1477199741
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1751474828
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1107506910
+2012-02-03 19:45:42,detail,DEBUG,detail,1513898548
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,670879988
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1713674243
+2012-02-03 19:45:42,detail,DEBUG,detail,2050202739
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,960264776
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2077312576
+2012-02-03 19:45:42,detail,DEBUG,detail,189880992
+2012-02-03 19:45:42,everything,INFO,everything normal,888143278
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,714319621
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,24440926
+2012-02-03 19:45:42,detail,DEBUG,detail,84253416
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1933231062
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,283845787
+2012-02-03 19:45:42,detail,DEBUG,detail,1728901872
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,217329198
+2012-02-03 19:45:42,detail,DEBUG,detail,1383560046
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,476515912
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,725003168
+2012-02-03 19:45:42,detail,DEBUG,detail,1700182271
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1875760554
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,477722838
+2012-02-03 19:45:42,everything,INFO,everything normal,233154471
+2012-02-03 19:45:42,detail,DEBUG,detail,422137231
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,273450210
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,845999008
+2012-02-03 19:45:42,detail,DEBUG,detail,1528714173
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1143214296
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1138505788
+2012-02-03 19:45:42,detail,DEBUG,detail,1493069317
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2052361058
+2012-02-03 19:45:42,detail,DEBUG,detail,369702283
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1689166339
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1370223382
+2012-02-03 19:45:42,detail,DEBUG,detail,2004877729
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2025067548
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,660188422
+2012-02-03 19:45:42,everything,INFO,everything normal,1263199720
+2012-02-03 19:45:42,detail,DEBUG,detail,807860341
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,404824311
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1833886812
+2012-02-03 19:45:42,detail,DEBUG,detail,2001684564
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1949219732
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1941779454
+2012-02-03 19:45:42,detail,DEBUG,detail,216508132
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1438183566
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1983839354
+2012-02-03 19:45:42,detail,DEBUG,detail,426704658
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1470678221
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1580952931
+2012-02-03 19:45:42,detail,DEBUG,detail,206403033
+2012-02-03 19:45:42,everything,INFO,everything normal,583522019
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,626260539
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,388592870
+2012-02-03 19:45:42,detail,DEBUG,detail,1390487022
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,494232860
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,2001492474
+2012-02-03 19:45:42,detail,DEBUG,detail,1011857397
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,113322153
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1221489227
+2012-02-03 19:45:42,detail,DEBUG,detail,1196808483
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1603699081
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,1252634520
+2012-02-03 19:45:42,detail,DEBUG,detail,235176401
+2012-02-03 19:45:42,verbose,TRACE,verbose detail,674872134
+2012-02-03 19:45:42,everything,INFO,everything normal,1860120046
+2012-02-03 19:58:39,detail,DEBUG,detail,1682122361
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,988709465
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1872170564
+2012-02-03 19:58:39,detail,DEBUG,detail,1520359411
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1505742806
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,244973914
+2012-02-03 19:58:39,detail,DEBUG,detail,323346598
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,909949768
+"","","","",""
+java.lang.Exception: 2012-02-03,problem,WARN,"",11195483
+"","","","",""
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1751038346
+2012-02-03 19:58:39,detail,DEBUG,detail,325981226
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1223624068
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1365143753
+2012-02-03 19:58:39,everything,INFO,everything normal,572453452
+2012-02-03 19:58:39,detail,DEBUG,detail,326282461
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,41740622
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1997139716
+2012-02-03 19:58:39,detail,DEBUG,detail,1672206892
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1108327707
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,413380405
+2012-02-03 19:58:39,detail,DEBUG,detail,840487483
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,542173416
+2012-02-03 19:58:39,detail,DEBUG,detail,86515082
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,476974847
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1005658424
+2012-02-03 19:58:39,detail,DEBUG,detail,1392096969
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,735555034
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1869318957
+2012-02-03 19:58:39,everything,INFO,everything normal,1838814794
+2012-02-03 19:58:39,detail,DEBUG,detail,1888158620
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1497308891
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1143704148
+2012-02-03 19:58:39,detail,DEBUG,detail,1666264259
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,114105222
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,601197974
+2012-02-03 19:58:39,detail,DEBUG,detail,127540850
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1072138870
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,2045662580
+2012-02-03 19:58:39,detail,DEBUG,detail,1178275501
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1355310443
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,627155102
+2012-02-03 19:58:39,detail,DEBUG,detail,1986948597
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,2002718392
+2012-02-03 19:58:39,everything,INFO,everything normal,601181707
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,696625096
+2012-02-03 19:58:39,detail,DEBUG,detail,1240064240
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,986188311
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1008331259
+2012-02-03 19:58:39,detail,DEBUG,detail,360103055
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1226801556
+2012-02-03 19:58:39,detail,DEBUG,detail,1379237955
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,2142330526
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1326662157
+2012-02-03 19:58:39,detail,DEBUG,detail,502484571
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,893151141
+2012-02-03 19:58:39,everything,INFO,everything normal,148952651
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1166229503
+2012-02-03 19:58:39,detail,DEBUG,detail,397829043
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,891794561
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1121058822
+2012-02-03 19:58:39,detail,DEBUG,detail,290222917
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1773240102
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1639188784
+2012-02-03 19:58:39,detail,DEBUG,detail,1002562670
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,650604508
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,526756600
+2012-02-03 19:58:39,detail,DEBUG,detail,716746519
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1520025938
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1840954913
+2012-02-03 19:58:39,detail,DEBUG,detail,616138807
+2012-02-03 19:58:39,everything,INFO,everything normal,1807416139
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1132125228
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,432987987
+2012-02-03 19:58:39,detail,DEBUG,detail,690005461
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,54739915
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,850223527
+2012-02-03 19:58:39,detail,DEBUG,detail,86643612
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1067970342
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1090825988
+2012-02-03 19:58:39,detail,DEBUG,detail,1956996671
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1281702655
+2012-02-03 19:58:39,detail,DEBUG,detail,1409407726
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,646127491
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,600960795
+2012-02-03 19:58:39,everything,INFO,everything normal,49788120
+2012-02-03 19:58:39,detail,DEBUG,detail,2123019458
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,353451573
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,950178429
+2012-02-03 19:58:39,detail,DEBUG,detail,789466424
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1820646069
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,721704010
+2012-02-03 19:58:39,detail,DEBUG,detail,596363340
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1400356664
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1307788059
+2012-02-03 19:58:39,detail,DEBUG,detail,1624221504
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,546604017
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,84079714
+2012-02-03 19:58:39,detail,DEBUG,detail,445449211
+2012-02-03 19:58:39,everything,INFO,everything normal,2024522464
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1795596403
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,830357894
+2012-02-03 19:58:39,detail,DEBUG,detail,111235356
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,735378839
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,767756576
+2012-02-03 19:58:39,detail,DEBUG,detail,386905234
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1370981326
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,672535066
+2012-02-03 19:58:39,detail,DEBUG,detail,395021187
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,2140706277
+2012-02-03 19:58:39,detail,DEBUG,detail,238710886
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,55830637
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1016091061
+2012-02-03 19:58:39,everything,INFO,everything normal,850363204
+2012-02-03 19:58:39,detail,DEBUG,detail,518698320
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,544702486
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1397204014
+2012-02-03 19:58:39,detail,DEBUG,detail,1995931581
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1798043879
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,722208298
+2012-02-03 19:58:39,detail,DEBUG,detail,1536452559
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1975569541
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1813945654
+2012-02-03 19:58:39,detail,DEBUG,detail,1496097749
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1111553881
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1325700756
+2012-02-03 19:58:39,detail,DEBUG,detail,704686823
+2012-02-03 19:58:39,everything,INFO,everything normal,2116663221
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1278652856
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,58757241
+2012-02-03 19:58:39,detail,DEBUG,detail,1386531509
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,467524089
+2012-02-03 19:58:39,detail,DEBUG,detail,247453597
+2012-02-03 19:58:39,verbose,TRACE,verbose detail,1167014738
+"","","","",""
+java.lang.Exception: 2012-02-03,incorrect,ERROR,incorrect format,1919705250
+"","","","",""
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,756700622
+2012-02-03 20:04:31,detail,DEBUG,detail,1128270038
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,340223419
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1676112819
+2012-02-03 20:04:31,detail,DEBUG,detail,1041433859
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,84081974
+2012-02-03 20:04:31,missing,WARN,"",1739629012
+2012-02-03 20:04:31,everything,INFO,everything normal,1262118917
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,142568137
+2012-02-03 20:04:31,detail,DEBUG,detail,897253675
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1260639428
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1603506118
+2012-02-03 20:04:31,detail,DEBUG,detail,1017296357
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1377985658
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1316984788
+2012-02-03 20:04:31,detail,DEBUG,detail,1435155703
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1176230686
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1292313663
+2012-02-03 20:04:31,detail,DEBUG,detail,1754329629
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,2122112728
+2012-02-03 20:04:31,detail,DEBUG,detail,1248717890
+2012-02-03 20:04:31,everything,INFO,everything normal,1688650975
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,728325065
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1381225979
+2012-02-03 20:04:31,detail,DEBUG,detail,1803385433
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1711631061
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,511923690
+2012-02-03 20:04:31,detail,DEBUG,detail,1388625346
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1667930487
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,635293827
+2012-02-03 20:04:31,detail,DEBUG,detail,115923087
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1389833671
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,968867577
+2012-02-03 20:04:31,detail,DEBUG,detail,2085630259
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1881585775
+2012-02-03 20:04:31,everything,INFO,everything normal,1006699952
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1419548871
+2012-02-03 20:04:31,detail,DEBUG,detail,1210717269
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1768847676
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,916097919
+2012-02-03 20:04:31,detail,DEBUG,detail,333616654
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,2005301329
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1269954590
+2012-02-03 20:04:31,detail,DEBUG,detail,560369055
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1641961834
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,966354741
+2012-02-03 20:04:31,detail,DEBUG,detail,711735103
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,430743307
+2012-02-03 20:04:31,everything,INFO,everything normal,2030479511
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,452489794
+2012-02-03 20:04:31,detail,DEBUG,detail,418210200
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1822603649
+2012-02-03 20:04:31,detail,DEBUG,detail,1775773085
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,329962802
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,473696838
+2012-02-03 20:04:31,detail,DEBUG,detail,1101674110
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,198920797
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1882607741
+2012-02-03 20:04:31,detail,DEBUG,detail,1628794032
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,389132612
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1784966201
+2012-02-03 20:04:31,detail,DEBUG,detail,1818774981
+2012-02-03 20:04:31,everything,INFO,everything normal,1859920024
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1042380351
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1144971105
+2012-02-03 20:04:31,detail,DEBUG,detail,861108791
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1867383362
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1099018937
+2012-02-03 20:04:31,detail,DEBUG,detail,1869855299
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,458822523
+2012-02-03 20:04:31,detail,DEBUG,detail,187150471
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1914195493
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,2076343511
+2012-02-03 20:04:31,detail,DEBUG,detail,1370233764
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1320634808
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1997427300
+2012-02-03 20:04:31,detail,DEBUG,detail,535357591
+2012-02-03 20:04:31,everything,INFO,everything normal,1837134060
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,839582509
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1812757852
+2012-02-03 20:04:31,detail,DEBUG,detail,1420229456
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1146453333
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,905901129
+2012-02-03 20:04:31,detail,DEBUG,detail,695076476
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1979870584
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,38895508
+2012-02-03 20:04:31,detail,DEBUG,detail,2094534328
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,2051886633
+2012-02-03 20:04:31,detail,DEBUG,detail,1295034537
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,968162683
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,2104824240
+2012-02-03 20:04:31,everything,INFO,everything normal,1619829491
+2012-02-03 20:04:31,detail,DEBUG,detail,1320747479
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1958613189
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1471955243
+2012-02-03 20:04:31,detail,DEBUG,detail,1200917043
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,728932052
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,258386797
+2012-02-03 20:04:31,detail,DEBUG,detail,591721439
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,384447951
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,783426305
+2012-02-03 20:04:31,detail,DEBUG,detail,2088840063
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,708554385
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,2133152456
+2012-02-03 20:04:31,detail,DEBUG,detail,1249935191
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,690221194
+2012-02-03 20:04:31,everything,INFO,everything normal,2117200686
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,345469662
+2012-02-03 20:04:31,detail,DEBUG,detail,1774878314
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1442135490
+2012-02-03 20:04:31,detail,DEBUG,detail,2097972952
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1079532713
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1819410740
+2012-02-03 20:04:31,detail,DEBUG,detail,867832359
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,883432856
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,279838536
+2012-02-03 20:04:31,detail,DEBUG,detail,712067831
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,871084656
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,142620460
+2012-02-03 20:04:31,detail,DEBUG,detail,1112823765
+2012-02-03 20:04:31,everything,INFO,everything normal,1487675533
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1056518348
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,568843851
+2012-02-03 20:04:31,detail,DEBUG,detail,51289242
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,233717982
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,833252517
+2012-02-03 20:04:31,detail,DEBUG,detail,422998781
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,169164283
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,763035305
+2012-02-03 20:04:31,detail,DEBUG,detail,1358177989
+2012-02-03 20:04:31,verbose,TRACE,verbose detail,1581239562
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1812059738
+2012-02-03 20:11:35,detail,DEBUG,detail,769773328
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,978502294
+2012-02-03 20:11:35,everything,INFO,everything normal,1631919407
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1834058134
+2012-02-03 20:11:35,detail,DEBUG,detail,2063091963
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,169628726
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1482645041
+2012-02-03 20:11:35,detail,DEBUG,detail,1479657717
+"","","","",""
+java.lang.Exception: 2012-02-03,problem,WARN,"",404455085
+"","","","",""
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,2011178381
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,31210465
+2012-02-03 20:11:35,detail,DEBUG,detail,151245400
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1390280615
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1010378501
+2012-02-03 20:11:35,detail,DEBUG,detail,1460422931
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,381148496
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1634291178
+2012-02-03 20:11:35,detail,DEBUG,detail,1478476550
+2012-02-03 20:11:35,everything,INFO,everything normal,1920662057
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1497392194
+2012-02-03 20:11:35,detail,DEBUG,detail,1510665388
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1375447064
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1226243707
+2012-02-03 20:11:35,detail,DEBUG,detail,1343688233
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1110024457
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,492346996
+2012-02-03 20:11:35,detail,DEBUG,detail,1931414535
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1407950755
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1687783776
+2012-02-03 20:11:35,detail,DEBUG,detail,1770318644
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1396119410
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1248610886
+2012-02-03 20:11:35,detail,DEBUG,detail,1363467649
+2012-02-03 20:11:35,everything,INFO,everything normal,1507582441
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,4179981
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,51184605
+2012-02-03 20:11:35,detail,DEBUG,detail,1516176682
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,28894134
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1155063792
+2012-02-03 20:11:35,detail,DEBUG,detail,1993064832
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1096120192
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1530516857
+2012-02-03 20:11:35,detail,DEBUG,detail,859314993
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,2076096770
+2012-02-03 20:11:35,detail,DEBUG,detail,1156486405
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,367363932
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,128431581
+2012-02-03 20:11:35,everything,INFO,everything normal,1324963136
+2012-02-03 20:11:35,detail,DEBUG,detail,1451707489
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,37054896
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,251143068
+2012-02-03 20:11:35,detail,DEBUG,detail,850785247
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1734827377
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,580350260
+2012-02-03 20:11:35,detail,DEBUG,detail,947940018
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,705909647
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1072806326
+2012-02-03 20:11:35,detail,DEBUG,detail,1509284973
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1915141886
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,542164111
+2012-02-03 20:11:35,detail,DEBUG,detail,1835860607
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1167224506
+2012-02-03 20:11:35,everything,INFO,everything normal,107435108
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,129865291
+2012-02-03 20:11:35,detail,DEBUG,detail,1782486395
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,860329156
+2012-02-03 20:11:35,detail,DEBUG,detail,2100599091
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1029582173
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,64978985
+2012-02-03 20:11:35,detail,DEBUG,detail,934615579
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,847394054
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1256532192
+2012-02-03 20:11:35,detail,DEBUG,detail,1944337293
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1297160359
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1087524204
+2012-02-03 20:11:35,detail,DEBUG,detail,2098292087
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1848977621
+2012-02-03 20:11:35,everything,INFO,everything normal,729071158
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1646051001
+2012-02-03 20:11:35,detail,DEBUG,detail,1062356997
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,622552214
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1008883541
+2012-02-03 20:11:35,detail,DEBUG,detail,1351549582
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,383365574
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1614089835
+2012-02-03 20:11:35,detail,DEBUG,detail,1791694375
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,465496334
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1364908988
+2012-02-03 20:11:35,detail,DEBUG,detail,749772073
+2012-02-03 20:11:35,everything,INFO,everything normal,1741609591
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1227596054
+2012-02-03 20:11:35,detail,DEBUG,detail,1357738425
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,183849071
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1441369694
+2012-02-03 20:11:35,detail,DEBUG,detail,2097332944
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,140394069
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,557476373
+2012-02-03 20:11:35,detail,DEBUG,detail,1924334940
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1937414731
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1309974910
+2012-02-03 20:11:35,detail,DEBUG,detail,1470120805
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,505923553
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1059194309
+2012-02-03 20:11:35,detail,DEBUG,detail,717585836
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,89720084
+2012-02-03 20:11:35,everything,INFO,everything normal,405881821
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1534038707
+2012-02-03 20:11:35,detail,DEBUG,detail,1107464229
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1615675165
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,770673922
+2012-02-03 20:11:35,detail,DEBUG,detail,1530207098
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,381772262
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,320051076
+2012-02-03 20:11:35,detail,DEBUG,detail,746059247
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,2087047171
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1422777297
+2012-02-03 20:11:35,detail,DEBUG,detail,1486603773
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1703608946
+2012-02-03 20:11:35,everything,INFO,everything normal,1036233317
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,769684984
+2012-02-03 20:11:35,detail,DEBUG,detail,1647746425
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1523527066
+2012-02-03 20:11:35,detail,DEBUG,detail,1998302620
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,129615085
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,435836472
+2012-02-03 20:11:35,detail,DEBUG,detail,882011440
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,66797536
+"","","","",""
+java.lang.Exception: 2012-02-03,unrecoverable,FATAL,"",609774657
+"","","","",""
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,459410856
+2012-02-03 20:11:35,detail,DEBUG,detail,1725042623
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1542500603
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,286873790
+2012-02-03 20:11:35,detail,DEBUG,detail,558353201
+"","","","",""
+java.lang.Exception: 2012-02-03,incorrect,ERROR,incorrect format,1088486137
+"","","","",""
+2012-02-03 20:11:35,verbose,TRACE,verbose detail,1373703376
+2012-02-03 20:11:35,everything,INFO,everything normal,657773974
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1286934830
+2012-02-03 20:11:56,detail,DEBUG,detail,1003046542
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,208092650
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1100355198
+2012-02-03 20:11:56,detail,DEBUG,detail,12693466
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1877671288
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1618799332
+"","","","",""
+java.lang.Exception: 2012-02-03,problem,WARN,"",1358451042
+"","","","",""
+2012-02-03 20:11:56,detail,DEBUG,detail,1976092771
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1317358561
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1737534798
+2012-02-03 20:11:56,detail,DEBUG,detail,1475865947
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,93292939
+2012-02-03 20:11:56,everything,INFO,everything normal,1104060891
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1471326656
+2012-02-03 20:11:56,detail,DEBUG,detail,1708755479
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,96477767
+2012-02-03 20:11:56,detail,DEBUG,detail,224721019
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1198913921
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,909684968
+2012-02-03 20:11:56,detail,DEBUG,detail,759976095
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1414320436
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,2067347557
+2012-02-03 20:11:56,detail,DEBUG,detail,1546542023
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,990982084
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1560323914
+2012-02-03 20:11:56,detail,DEBUG,detail,2083681507
+2012-02-03 20:11:56,verbose,TRACE,verbose detail,1718828806
+2012-02-03 20:11:56,everything,INFO,everything normal,530537821
